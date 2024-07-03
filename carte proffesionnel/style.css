@@ -1,0 +1,21 @@
+#contenaire{
+    display: flex;
+    justify-content: center;
+    width: 800px;
+    height: 600px;
+    background-color: #610C9F;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid #6D67E4;
+    border-radius: 5px;
+}
+html{
+    background-color: #9400FF;
+}
+#image{
+    margin: 5px;
+}
+#texte{
+    text-align: center;
+    font-size: x-large;
+}
